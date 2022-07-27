@@ -1,0 +1,51 @@
+/*Ajuste General*/
+
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+     
+    
+
+}
+
+/* Control Fondo */
+
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg?w=1380&t=st=1658345874~exp=1658346474~hmac=a3af1858f1af750d724815d3effbb1094efd17ea27cb3a0a581aea0abbde3fbc);
+}
+
+/*Caja Log In*/
+
+.loginBox{
+    width: 400px;
+    height: 340px;
+    background-color:lightslategray;
+    margin: auto;
+    margin-top: 240px;
+    box-shadow: 12px 23px 12px #000;
+    padding: 20px 30px;
+    
+    
+}
+
+/*Texto H1*/
+
+h1{
+    background-color: darkgrey;
+    text-decoration: overline; 
+    text-decoration: solid
+    
+
+}
+
+/*Caja formulario*/
+
+form{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding: 20px 30px;
+    margin: auto;
+
+}
